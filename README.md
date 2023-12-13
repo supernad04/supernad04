@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Maynard Gabriel
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development (MERN, MEAN, MEVN)
+- 🌱 I’m currently learning Full Stack Web Development
 
 
 <!---
